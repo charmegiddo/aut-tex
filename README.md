@@ -5,7 +5,7 @@ How to use:
 
 1) Download
 
-``cd ~;curl -O https://github.com/hshintaro575/aut-tex/blob/master/auto-tex.sh``
+``cd ~;curl -O https://raw.githubusercontent.com/hshintaro575/aut-tex/master/auto-tex.sh;chmod 777 ~/auto-tex.sh``
 
 2) Set alias
 
