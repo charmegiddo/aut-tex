@@ -7,8 +7,7 @@ How to use:
 ``cd ~;curl -O https://github.com/hshintaro575/aut-tex/blob/master/auto-tex.sh``
 
 2)
-``echo "
-alias tx='~/auto-tex.sh'"  >> ~/.bashrc``
+``echo -e "\nalias tx='~/auto-tex.sh'"  >> ~/.bashrc``
 
 3)
 ``source ~/.bashrc``
